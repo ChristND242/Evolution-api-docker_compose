@@ -18,10 +18,11 @@ mkdir evolution-api
 cd evolution-api
 ```
 
-Inside it, create:
+Then:
 
-* `docker-compose.yml`
-* `.env`
+* Then clone: git clone https://github.com/ChristND242/Evolution-api-docker_compose.git
+* cd Evolution-api-docker_compose
+* create `.env`
 
 
 
