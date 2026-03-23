@@ -23,7 +23,7 @@ services:
       - evolution-net
 
   evolution-api:
-    image: atendai/evolution-api:v2.3.7
+    image: evoapicloud/evolution-api:v2.3.7
     container_name: evolution_api
     restart: always
     depends_on:
